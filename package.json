@@ -17,5 +17,8 @@
     "url": "https://github.com/WingedGearWolf/wolves3d/issues"
   },
   "homepage": "https://github.com/WingedGearWolf/wolves3d#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
